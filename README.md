@@ -1,4 +1,4 @@
-# Mutation-Analysis-SARS-COV [R] December, 9, 2024.
+# Mutation-Analysis-SARS-COV [R], Date created/updated: December, 9, 2024.
 Mutation analysis in Severe acute respiratory syndrome coronavirus (SAR COV).
 Collaboration with Dr. Alex. Zelikovsky, Georgia State University, Atlanta, United States of America (USA). https://alan.cs.gsu.edu/NGS/?q=content/csc2510-theoretical-foundations-computer-science-0
 Claflin University, Orangeburg, South Carolina, USA. https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science

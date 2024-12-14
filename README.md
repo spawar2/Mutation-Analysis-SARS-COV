@@ -5,3 +5,4 @@ Claflin University, Orangeburg, South Carolina, USA. https://www.claflin.edu/ ht
 
 Mutatation-Analysis.Rd: Severe acute respiratory syndrome (SARS) coronavirus Sequence and mutation data read, K-means clustering analysis.
 selected function(genfromtxt, train_test_split, svm.SVC, PCA, svmClassifier_2d.predict, np.meshgrid, Z.reshape, knn, kmeans, clusGap, Mclust, NbClust, dist, cutree, agnes, sapply).
+![download2](https://github.com/user-attachments/assets/1b4c5240-8626-46e2-80b9-441b905f39c4)
